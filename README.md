@@ -2,4 +2,6 @@
 
 **This repository is meant for testing and experimenting new things on github**
 
-Adding somme new thigns
+Adding somme new things
+
+Somme brand new things
